@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666150898 source:c:\users\devel\desktop\cb_linuxc_satemachine\main.c
+	<stdio.h>
+	<stdlib.h>
+
